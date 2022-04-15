@@ -97,7 +97,7 @@ textarea {
 
 /*Large Background Image*/
 html {
-  background: url(/img/tom-crew-YA2E3d7a9Wo-unsplash.jpg) no-repeat center center fixed;
+  background: url(../img/tom-crew-YA2E3d7a9Wo-unsplash.jpg) no-repeat center center fixed;
   height: 100%;
    /* set height to 100% - these are important for allowing content to vertically align */
 }
